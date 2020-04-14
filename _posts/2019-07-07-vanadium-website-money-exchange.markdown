@@ -51,6 +51,13 @@ The idea was to perform the task on page loads. During every connection, hidden 
 We wanted students to access the total money spent on the site, to have an evolution of expenses view, and to know how expenses were divided between each students' union.
 An overview of the page in use is accessible [down there](#statistics).
 
+    test
+	sdf
+		sdfs
+		sdfsdf
+sdfsdf
+				sdf
+
 ## Improve the global design
 
 We completely reshape the design of the website, from the background to the fonts in use. Our main objective was to enhance the user experience.
@@ -96,5 +103,5 @@ You can fill your account using your banking card on this page. The text box is 
 ![vanadium-online-payment-done]({{site.baseurl}}\assets\img\vanadium-website-platform-exchange\online_payment_done.png)
 Once the payment done, we update our database with the appropriate value.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk3MTc5Mjc0XX0=
+eyJoaXN0b3J5IjpbNDIxNDgyMjEyLDU5NzE3OTI3NF19
 -->
