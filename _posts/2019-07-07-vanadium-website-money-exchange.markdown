@@ -69,6 +69,9 @@ sdfsdf
 
  - [ ] fghj
  - [ ] klmjkl
+| 1 	| 	4 |
+|-- |--|
+| 2 | 3 |
 
      
 				
@@ -118,5 +121,6 @@ You can fill your account using your banking card on this page. The text box is 
 ![vanadium-online-payment-done]({{site.baseurl}}\assets\img\vanadium-website-platform-exchange\online_payment_done.png)
 Once the payment done, we update our database with the appropriate value.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODU1OTU1NDksNTk3MTc5Mjc0XX0=
+eyJoaXN0b3J5IjpbMjA2OTAxNDg1NywtMTg4NTU5NTU0OSw1OT
+cxNzkyNzRdfQ==
 -->
