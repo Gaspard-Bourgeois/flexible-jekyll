@@ -56,7 +56,22 @@ An overview of the page in use is accessible [down there](#statistics).
 		sdfs
 		sdfsdf
 sdfsdf
-				sdf
+	sdf
+	rer
+	ere
+
+> sdfqsd
+> dfqsdf
+> qsdf
+> dsfq
+> sdfq
+> sd
+
+ - [ ] fghj
+ - [ ] klmjkl
+
+     
+				
 
 ## Improve the global design
 
@@ -103,5 +118,5 @@ You can fill your account using your banking card on this page. The text box is 
 ![vanadium-online-payment-done]({{site.baseurl}}\assets\img\vanadium-website-platform-exchange\online_payment_done.png)
 Once the payment done, we update our database with the appropriate value.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIxNDgyMjEyLDU5NzE3OTI3NF19
+eyJoaXN0b3J5IjpbLTE4ODU1OTU1NDksNTk3MTc5Mjc0XX0=
 -->
