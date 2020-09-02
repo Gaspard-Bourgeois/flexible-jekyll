@@ -1,0 +1,63 @@
+I"Ù<p>We had to conceive from scratch a reduction gearbox in a 3 months school project (56 hours expected) at ENSAM in a group of 2. I did this work with a teammate named AKHROUF Samy, we perform a great work together.</p>
+
+<p>The work was guided by this subject given by our teachers.</p>
+<ul>
+  <li><a href="/assets/download/Bourgeois%20Gaspard%20-%20Reduction%20gear%20box%20-%20Subject.pdf">Download the Subject</a></li>
+</ul>
+
+<p>If you want to understand all choices we made in order to fulfill this conception, you can read the following report or look at the support of the oral presentation associated.</p>
+
+<ul>
+  <li><a href="/assets/download/Bourgeois%20Gaspard%20-%20Reduction%20gear%20box%20-%20Report.pdf">Download the Full Report</a></li>
+  <li><a href="/assets/download/Bourgeois%20Gaspard%20-%20Reduction%20gear%20box%20-%20Presentation.pdf">Download the Support of the Presentation</a></li>
+</ul>
+
+<h1 id="objectives">Objectives</h1>
+<p>We had to conceive a box which admits 2 circular axles linked together by a relation on their rotation speed. All the formulas were explained in our lessons.
+So our work focus on how to chose each shape and each dimension of the assembly in order to have :</p>
+<ul>
+  <li>a system economical</li>
+  <li>a system mountable and unmountable</li>
+  <li>a system resistant to load of flexion and torsion on the entry axle</li>
+  <li>a system achievable with basic machining machine</li>
+  <li>a system oil-tight</li>
+</ul>
+
+<h1 id="conception">Conception</h1>
+<p>Every constraint includes another one. For example, in order to have a system resistant to flexion, it imposes a minimum axle diameter, which impact the size of the seals, which impact the cost of the system. All of those constraints makes the work really interesting, itâ€™s important to respect every specification in order to have a functional system.
+We inspired a lot from existing system, then we tried to simplify every shape, in order to win time in the building process.
+We imagined all the building process, we thought about simplifying this process for an eventual assembly-line worker. We decided to make an almost symetrical case made out of two similar parts. We made maximum of holes at the same size. We tried to put in place rounded size to simplify a future quality control.
+After reviewing the building process, we imagined the packaging, then the transportation, the installation, daily use and the maintenance.</p>
+
+<p>So we had two holes to allow the oil change. We created some feet to fix the system. And so on.</p>
+
+<p>The initial conception took 3 weeks, as expected by our teachers.</p>
+
+<h1 id="cao">CAO</h1>
+<p>The second step was to create our conception on Catia V5. We create the 2 spur gears first. Then we downloaded from <a href="https://www.traceparts.com/en">traceparts.com</a> every additional parts, including seals, screws, washer and woodruff keys. We finally assemble parts together.
+Creating the system took a lot of time, but it helped us to find out a lot of problems in our initial conception.</p>
+
+<p>The first CAO made us correct the initial conception of the case, we finally decided to restart a big part of the conception in order to have a better result.</p>
+
+<p><img src="/assets/img/mechanical-reduction-gear-set/version.png" alt="Evolution Conception" /></p>
+
+<p>As shown in the picture, several changes made the result more resistant and easier to assemble.</p>
+
+<h1 id="plans">Plans</h1>
+<p>The last step was to create from our simulations 3 industrial drawings. The first plan is an external view of the system. The second plan presents different cross-sections of the system. And the last one is a nomenclature of it.</p>
+
+<p><img src="/assets/img/mechanical-reduction-gear-set/external_plan.svg" alt="External Plan" /></p>
+
+<center>An external plan of the system</center>
+
+<p><img src="/assets/img/mechanical-reduction-gear-set/internal_plan.svg" alt="Internal Plan" /></p>
+
+<center>An internal plan of the system</center>
+
+<p><img src="/assets/img/mechanical-reduction-gear-set/nomenclature_plan.svg" alt="Nomenclature Plan" /></p>
+
+<center>A nomenclature plan of the system</center>
+
+<h1 id="conclusion">Conclusion</h1>
+<p>This project was really great to discover the conception field. It also helps me to gain experience in CATIA V5.</p>
+:ET

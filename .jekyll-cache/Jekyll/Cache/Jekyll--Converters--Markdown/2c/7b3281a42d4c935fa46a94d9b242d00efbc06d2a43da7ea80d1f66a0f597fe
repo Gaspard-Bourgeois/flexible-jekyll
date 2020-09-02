@@ -1,0 +1,127 @@
+I"<p>This project was to conceive and build two trophies and 420 medals for different events.
+One trophy was ordered by Neoma Business School for a sports tournament called Ecricome. The second trophy and the 420 medals were aimed to reward the students of our school for a sports tournament called UAI 2018 organized by our student organization.</p>
+
+<p>An independent project team was created by the school to manage this project. A total of 120 working hours were allocated by the school along the year.</p>
+
+<p>We established some strong relationships with our customer Neoma and our school. This project is covered by a written report and a speech.</p>
+
+<ul>
+  <li><a href="/assets/download/Bourgeois%20Gaspard%20-%20Trophies%20and%20Medals%20-%20Report.pdf">Download the Full Report</a></li>
+  <li><a href="/assets/download/Bourgeois%20Gaspard%20-%20Trophies%20and%20Medals%20-%20Presentation%20Support.pdf">Download the Support of the Presentation</a></li>
+</ul>
+
+<p>Our partnership with Neoma was supported by our school. This project was celebrated by publishing an article into the school news.</p>
+
+<ul>
+  <li><a href="/assets/download/Bourgeois%20Gaspard%20-%20Trophies%20and%20Medals%20-%20Article.pdf">Download the Article</a></li>
+</ul>
+
+<p>This project was a wonderful experience, I learned a lot of scientific knowledge, many technical advice on machines and the way to connect my knowledge to machine. All of it was performed in a peaceful environment, full of advice and team work. A great work and a great memory that we can be proud of.</p>
+
+<h1 id="make-trophies">Make trophies</h1>
+
+<h2 id="meet-néoma-and-define-a-trophy">Meet Néoma and define a trophy</h2>
+<p>We met M.Brahmi, the president of Neoma Sports Student Union Committee, and his team the 14th of December 2017.
+They defined their needs and the timeline, aimed at finishing the trophy before their tournament on March 2018.</p>
+
+<p>We decided to conceive similar features for both NEOMA and ENSAM trophies.</p>
+
+<h2 id="design-it-in-catia">Design it in Catia</h2>
+<p>After several technical verifications, reviews and prototypes, we agreed on a final version of the CAD with our client.</p>
+
+<p><img src="/assets/img/realise-sports-trophies-and-medals/trophy_cad_evolution.png" alt="Trophee CAD Evolution" /></p>
+
+<center>Evolution of CAD among project</center>
+
+<h2 id="realize-trophies">Realize trophies</h2>
+
+<p>The realization had four steps:</p>
+<ul>
+  <li>machine the wood block</li>
+  <li>punch the metal</li>
+  <li>engrave the plastic slab</li>
+  <li>flow the resin</li>
+</ul>
+
+<h3 id="wooden-part">Wooden part</h3>
+
+<p>We transferred the CAD shape to a milling machine using StratoConception© process.
+<img src="/assets/img/realise-sports-trophies-and-medals/trophy_wood_machine.png" alt="Trophee Wood Machine" /></p>
+
+<p>We made a prototype for the final validation regarding its size, its resistance, its milling time and so on.
+<img src="/assets/img/realise-sports-trophies-and-medals/trophy_wood_sample.png" alt="Trophee Wood Sample" /></p>
+
+<p>We updated our CAD and made the final version of the wooden part of the trophies.
+<a href="/assets/download/Bourgeois%20Gaspard%20-%20Trophies%20and%20Medals%20-%20Wooden%20part%20trophy.stl">Download the wooden part STL</a></p>
+
+<h3 id="brass-plate">Brass Plate</h3>
+
+<p>We used a press machine to model the brass plate shape. This machine, called Aries 222, is complex to program, so we decided a single text for both trophies.
+Every letter was programed with adapted punches and trajectories.
+For the Ensam trophy, we switched brass for aluminum to lower the material cost.
+<img src="/assets/img/realise-sports-trophies-and-medals/trophy_brass_plate_shape.png" alt="Trophee Brass Plate Shape" />
+<img src="/assets/img/realise-sports-trophies-and-medals/trophy_brass_plate.png" alt="Trophee Brass Plate" /></p>
+
+<h3 id="plastic-slab">Plastic Slab</h3>
+
+<p>We transformed both school logos to shape. We engraved the anthracite plastic in the laser engraver named V2000.
+<img src="/assets/img/realise-sports-trophies-and-medals/trophy_plastic_slab.png" alt="Trophee Plastic Slab" /></p>
+
+<h3 id="the-resin">The resin</h3>
+
+<p>We mixed epoxy resin and a hardener to try our first resin with a sample.
+<img src="/assets/img/realise-sports-trophies-and-medals/trophy_resin_sample.png" alt="Trophee Resin Sample" /></p>
+
+<p>Thanks to the sample, we updated the temperature and the hardening time. To do so, we let the trophy with the resin in an oven.
+<img src="/assets/img/realise-sports-trophies-and-medals/trophy_resin.png" alt="Trophee Resin" /></p>
+
+<h3 id="final-step">Final Step</h3>
+
+<p>We varnished both trophies, then we pasted every part together.
+<img src="/assets/img/realise-sports-trophies-and-medals/trophy.png" alt="Trophee" /></p>
+
+<h1 id="make-medals">Make medals</h1>
+
+<h2 id="design-the-medals">Design the medals</h2>
+
+<p>We designed the aesthetics of the medals with the organizing team. The size of the medals and the precision of the lines were fixed by the press machine. The aluminum was nice for the machine capacity and his low cost.</p>
+
+<p><img src="/assets/img/realise-sports-trophies-and-medals/medal_design.png" alt="Medal Design" /></p>
+
+<h2 id="make-the-stamps">Make the stamps</h2>
+
+<h3 id="chose-the-stamp-material">Chose the stamp material</h3>
+
+<p>We bought some Iron 90MV8, a matter with good hardness and tenacity skills to punch aluminum. We machined the stamps to fit in the press machine, one stamp for each side.</p>
+
+<p><img src="/assets/img/realise-sports-trophies-and-medals/medal_punch.png" alt="Medal Punch" /></p>
+
+<h3 id="computer-assisted-manufacturing">Computer Assisted Manufacturing</h3>
+
+<p>We modelized the process to machine the stamps.
+<img src="/assets/img/realise-sports-trophies-and-medals/medal_cam.png" alt="Medal CAM" /></p>
+
+<h3 id="mill-the-stamp">Mill the stamp</h3>
+
+<p>We launched the manufacturing with the adapted milling cutters.</p>
+
+<p><img src="/assets/img/realise-sports-trophies-and-medals/medal_press_manufacturing.png" alt="Medal Punch Manufacturing" /></p>
+
+<h3 id="heat-the-stamp">Heat the Stamp</h3>
+
+<p>To give the stamps the adapted hardness, we heat treated them. We did a quenching treatment first at 780°C for 30 minutes, followed by a tempering one at 220°C of 1 hour.</p>
+
+<p><img src="/assets/img/realise-sports-trophies-and-medals/medal_punch_treatment.png" alt="Medal Punch Treatment" /></p>
+
+<h2 id="stamp-medals">Stamp medals</h2>
+
+<p>We punched 500 medals in aluminum with a press of 220T.</p>
+
+<p><img src="/assets/img/realise-sports-trophies-and-medals/medal_press_machine.png" alt="Medal Press Machine" /></p>
+
+<h2 id="finalize-medals">Finalize medals</h2>
+
+<p>We colored our medals with an anodizing process in a local company named Anodur. Then we pierced medals and added a choker.</p>
+
+<p><img src="/assets/img/realise-sports-trophies-and-medals/medal_final.png" alt="Final Medals" /></p>
+:ET

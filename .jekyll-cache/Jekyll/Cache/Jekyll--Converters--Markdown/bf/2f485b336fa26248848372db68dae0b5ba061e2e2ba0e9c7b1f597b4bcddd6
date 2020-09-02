@@ -1,0 +1,51 @@
+I"<p>In my last year of High School I wrote a website for my class in order to exchange information altogether. It was used to ask question, to exchange on works or just chill together.</p>
+
+<p>In order to make this website I learned MySQL, PHP, Javascript, HTML and CSS. The website was fully handwritten by myself, and hosted in a personal server for one year.</p>
+
+<h1 id="website-codes">Website codes</h1>
+
+<p>You can access all of my work directly on my github repository:
+<a href="https://github.com/Gaspard-Bourgeois/Forum-UNSA">https://github.com/Gaspard-Bourgeois/Forum-UNSA</a></p>
+
+<p>Follow the tutorial in order to build the website locally. Feel free to send me any feedback or any updates in order to improve the website.</p>
+
+<h1 id="website-preview">Website Preview</h1>
+
+<p>I gathered some screenshot of the website below. I will give further details on functionalities in a next update.</p>
+
+<h2 id="sign-in-page">Sign-in Page</h2>
+
+<p><img src="/assets/img/website-forum-unsa/inscription.php.png" alt="Sign-in" /></p>
+
+<h2 id="login-page">Login Page</h2>
+
+<p><img src="/assets/img/website-forum-unsa/mdp.php.png" alt="Login" /></p>
+
+<h2 id="home-page">Home Page</h2>
+
+<p><img src="/assets/img/website-forum-unsa/index.php.png" alt="Index" /></p>
+
+<h2 id="agenda-box">Agenda Box</h2>
+
+<p><img src="/assets/img/website-forum-unsa/agenda.php.png" alt="Agenda" /></p>
+
+<h2 id="account-page">Account Page</h2>
+
+<p><img src="/assets/img/website-forum-unsa/compte.php.png" alt="Account" /></p>
+
+<h2 id="tutorial-page">Tutorial Page</h2>
+
+<p><img src="/assets/img/website-forum-unsa/partage.php.png" alt="Tutorial" /></p>
+
+<h2 id="reply-page">Reply Page</h2>
+
+<p><img src="/assets/img/website-forum-unsa/reponse.php.png" alt="Reply" /></p>
+
+<h2 id="editing-text-page">Editing Text Page</h2>
+
+<p><img src="/assets/img/website-forum-unsa/fiche.php_2.png" alt="Editing Text" /></p>
+
+<h2 id="editing-text-page-in-edition">Editing Text Page in Edition</h2>
+
+<p><img src="/assets/img/website-forum-unsa/fiche.php_modification2.png" alt="Editing Text in Edition" /></p>
+:ET
